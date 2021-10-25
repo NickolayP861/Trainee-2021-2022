@@ -1,0 +1,26 @@
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\JSON to html.exe.config
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\JSON to html.exe
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\JSON to html.pdb
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\obj\Debug\JSON to html.csprojAssemblyReference.cache
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\obj\Debug\JSON to html.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\obj\Debug\JSON to html.exe
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\obj\Debug\JSON to html.pdb
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Buffers.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Memory.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Text.Json.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.ValueTuple.dll
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Buffers.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Memory.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Text.Json.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\bin\Debug\System.ValueTuple.xml
+C:\Users\Домашний\Desktop\Стажировка\JSON to html\JSON to html\obj\Debug\JSON to html.csproj.CopyComplete
